@@ -12,3 +12,4 @@ function mystery(a) {
     else return a[0];
 }
 ```
+This function returns the max value in the array.
